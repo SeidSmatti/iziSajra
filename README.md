@@ -16,7 +16,7 @@ Useful for lazily submitting projetcs to chatbots such as ChatGPT.
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/SeidSmatti/iziSajra.git
-   cd directory-extractor-app
+   cd iziSajra
    ```
 
 2. **Set Up Virtual Environment**:
