@@ -41,7 +41,7 @@ Useful for lazily submitting projetcs to chatbots such as ChatGPT.
 
 Run the application with:
 ```bash
-sajra.py
+python3 sajra.py
 ```
 
 
