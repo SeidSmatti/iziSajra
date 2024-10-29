@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+venvs/
+env/
+.glob/ # Assuming this is your virtual environment directory
+.env
+.env.*
+.DS_Store
+*.log
+*.db
+*.cfg
+*.ctkconfig
+.vscode/
+.idea/
+*.code-workspace
+*.tmp
+*.bak
+*.swp
+
