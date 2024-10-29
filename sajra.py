@@ -12,7 +12,7 @@ ctk.set_default_color_theme("blue")
 class DirectoryExtractorApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Directory Extractor App")
+        self.root.title("iziSajra directory Extractor")
         self.root.geometry("900x700")
 
         # Create a main frame
