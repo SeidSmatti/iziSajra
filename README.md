@@ -5,6 +5,8 @@ A GUI application built with Python and CustomTkinter that allows users to brows
 
 Useful for lazily submitting projetcs to chatbots such as ChatGPT. 
 
+Update 12/12/2024 : Added a terminal based adaptation if you prefer that.
+
 ## Features
 
 - **Browse Directories**: Select a directory and view its structure and files.
@@ -44,6 +46,10 @@ Run the application with:
 python3 sajra.py
 ```
 
+Use the CLI solution (on de the working directory):
+```bash
+python3 /path/to/sajraCLI.py
+```
 
 ## Requirements
 
